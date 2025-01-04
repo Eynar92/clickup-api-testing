@@ -1,0 +1,19 @@
+{
+  "name": "bcltatteam2_js",
+  "version": "1.0.0",
+  "description": "ClickUp API Automation framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Eynar92/clickup-api-testing.git"
+  },
+  "author": "Eynar92",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "log4js": "^6.9.1"
+  }
+}
